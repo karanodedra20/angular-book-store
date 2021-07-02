@@ -1,0 +1,52 @@
+[
+  {
+    "bookId": 1,
+    "bookName": "The Secret",
+    "bookCode": "GDN-0011",
+    "releaseDate": "March 19, 2021",
+    "description": "The Secret is a 2006 self-help book by Rhonda Byrne, based on the earlier film of the same name. It is based on the belief of the law of attraction, which claims that thoughts can change a person's life directly",
+    "price": 19.95,
+    "starRating": 4.2,
+    "imageUrl": "assets/images/thesecret.jpg"
+  },
+  {
+    "bookId": 2,
+    "bookName": "The Power of Your Subconscious Mind",
+    "bookCode": "GDN-0023",
+    "releaseDate": "March 18, 2021",
+    "description": "This remarkable book by Dr. Joseph Murphy, one of the pioneering voices of affirmative thinking, will unlock for you the truly staggering powers of your subconscious mind.",
+    "price": 32.99,
+    "starRating": 4.5,
+    "imageUrl": "assets/images/thepower.jpg"
+  },
+  {
+    "bookId": 5,
+    "bookName": "The Theory of Everything",
+    "bookCode": "TBX-0048",
+    "releaseDate": "May 21, 2021",
+    "description": "Based on a series of lectures given at Cambridge University, Professor Hawking's work introduced 'the history of ideas about the universe' as well as today's most important scientific theories about time, space, and the cosmos in a clear, easy-to-understand way. 'The Theory of Everything' presents the most complex theories, both past and present, of physics; yet it remains clear and accessible.",
+    "price": 8.9,
+    "starRating": 4.8,
+    "imageUrl": "assets/images/thetheoryofeverything.jpg"
+  },
+  {
+    "bookId": 8,
+    "bookName": "The Dhoni Touch",
+    "bookCode": "TBX-0022",
+    "releaseDate": "May 15, 2021",
+    "description": "Be it his signature helicopter shot or his ever-calm demeanour, Mahendra Singh Dhoni has always found a way to tap into the hearts of his fans. For someone who was training to be a footballer, who could have told that Mahi was going to take the world of cricket by storm. In The Dhoni Touch: Unravelling the Enigma That Is Mahendra Singh Dhoni, Bharat Sundaresan reaches out to some of Mahi’s closest friends to find out how he became the man that he is today.",
+    "price": 11.55,
+    "starRating": 4.7,
+    "imageUrl": "assets/images/dhoni.jpg"
+  },
+  {
+    "bookId": 10,
+    "bookName": "The Alchemist",
+    "bookCode": "GMG-0042",
+    "releaseDate": "October 15, 2020",
+    "description": "Every few decades a book is published that changes the lives of its readers forever. This is such a book – a beautiful parable about learning to listen to your heart, read the omens strewn along life’s path and, above all, follow your dreams.",
+    "price": 35.95,
+    "starRating": 4.6,
+    "imageUrl": "assets/images/thealchemist.jpg"
+  }
+]
