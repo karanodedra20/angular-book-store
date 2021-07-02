@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! D:\Frontend Projects\Angular_PluralSight\Angular-GettingStarted\APM-Final\src\polyfills.ts */"hN/g");
+module.exports = __webpack_require__(/*! D:\Frontend Projects\Angular_PluralSight\Angular-GettingStarted\angular-the-book-store\src\polyfills.ts */"hN/g");
 
 
 /***/ }),
