@@ -1,10 +1,11 @@
 {
-  "name": "apm",
+  "name": "tbs",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve -o",
     "build": "ng build",
+    "deploy": "gh-pages -d dist",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
@@ -21,6 +22,7 @@
     "@angular/router": "~11.2.0",
     "bootstrap": "^4.6.0",
     "font-awesome": "^4.7.0",
+    "gh-pages": "^3.2.3",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.11.3"
